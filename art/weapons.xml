@@ -791,7 +791,7 @@
             <attack_description>lunges at</attack_description>
             <hit_description>slashing</hit_description>
             <skill>KNIFE</skill>
-            <strentgh_min>1</strentgh_min>
+            <strength_min>1</strength_min>
             <strength_max>6</strength_max>
             <random_damage>61</random_damage>
             <fixed_damage>10</fixed_damage>
